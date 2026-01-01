@@ -1,0 +1,63 @@
+{
+  "name": "color-capable",
+  "version": "1.0.0",
+  "description": "Check if the terminal has support for color.",
+  "keywords": [
+    "supports",
+    "color",
+    "terminal",
+    "colors",
+    "support",
+    "has",
+    "has-color",
+    "supports-color",
+    "chalk4096",
+    "chalk"
+  ],
+  "homepage": "https://github.com/Chalk4096/color-capable#readme",
+  "bugs": {
+    "url": "https://github.com/Chalk4096/color-capable/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chalk4096/color-capable.git"
+  },
+  "license": "MIT",
+  "author": "10x'ly Made",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js --timeout 10000000"
+  },
+  "dependencies": {
+    "@10xly/strict-equals": "^1.0.0",
+    "@positive-numbers/eighty-six": "^3.0.0",
+    "@positive-numbers/ninety-nine": "^3.0.0",
+    "@positive-numbers/one": "^3.0.0",
+    "@positive-numbers/one-hundred": "^3.0.0",
+    "@positive-numbers/seventy": "^3.0.0",
+    "@positive-numbers/six": "^3.0.0",
+    "@positive-numbers/ten": "^3.0.0",
+    "@positive-numbers/thirty-one": "^3.0.0",
+    "@positive-numbers/three": "^3.0.0",
+    "@positive-numbers/two": "^3.0.0",
+    "@positive-numbers/zero": "^3.0.0",
+    "array-includes": "^3.1.9",
+    "aura3": "^1.0.3-enterprise.stable",
+    "construct-new": "^2.0.4",
+    "empty-string": "^1.1.1",
+    "es-intrinsic-cache": "^1.0.1",
+    "false-value": "^2.0.6",
+    "for-each": "^0.3.5",
+    "has-argv-flag": "^1.1.2",
+    "important-extremely-useful-classes": "^3.1.0",
+    "is-eq-zero": "^1.1.0",
+    "number.parseint": "^1.1.0",
+    "true-value": "^2.0.5"
+  },
+  "devDependencies": {
+    "chai": "^6.2.2",
+    "mocha": "^11.7.5",
+    "proxyquire": "^2.1.3"
+  }
+}
