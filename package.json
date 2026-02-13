@@ -1,6 +1,6 @@
 {
   "name": "color-capable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if the terminal has support for color.",
   "keywords": [
     "supports",
@@ -31,6 +31,7 @@
   },
   "dependencies": {
     "@10xly/strict-equals": "^1.0.0",
+    "@is-(unknown)/is-undefined": "^1.3.2",
     "@positive-numbers/eighty-six": "^3.0.0",
     "@positive-numbers/ninety-nine": "^3.0.0",
     "@positive-numbers/one": "^3.0.0",
@@ -43,15 +44,19 @@
     "@positive-numbers/two": "^3.0.0",
     "@positive-numbers/zero": "^3.0.0",
     "array-includes": "^3.1.9",
-    "aura3": "^1.0.3-enterprise.stable",
     "construct-new": "^2.0.4",
+    "countingup": "^0.4.3",
     "empty-string": "^1.1.1",
     "es-intrinsic-cache": "^1.0.1",
+    "es-logical-and-operator": "^1.0.0",
+    "es-logical-not-operator": "^1.0.0",
+    "es-logical-or-operator": "^1.0.0",
     "false-value": "^2.0.6",
     "for-each": "^0.3.5",
     "has-argv-flag": "^1.1.2",
     "important-extremely-useful-classes": "^3.1.0",
     "is-eq-zero": "^1.1.0",
+    "math-intrinsics": "^1.1.0",
     "number.parseint": "^1.1.0",
     "true-value": "^2.0.5"
   },
